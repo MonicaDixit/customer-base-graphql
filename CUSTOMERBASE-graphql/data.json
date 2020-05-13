@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "ted",
+      "email": "ted@gmail",
+      "age": 25
+    },
+    {
+      "id": "2",
+      "name": "sal",
+      "email": "sal@gmail",
+      "age": 35
+    },
+    {
+      "id": "3",
+      "name": "molly",
+      "email": "molly@gmail",
+      "age": 15
+    },
+    {
+      "id": "5",
+      "name": "remy",
+      "email": "remy@gmail",
+      "age": 15
+    },
+    {
+      "name": "Jim",
+      "email": "jim@gmail",
+      "age": 72,
+      "id": "dckvbvl"
+    }
+  ]
+}
